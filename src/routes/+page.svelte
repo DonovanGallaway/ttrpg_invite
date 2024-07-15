@@ -9,6 +9,8 @@
         'queerest': 'Avery',
         'powder': 'Stacy',
         'test': 'Player',
+        'faechild': 'Rae',
+        'piracy': 'Rue',
     }
 
     let accessGranted = false;
