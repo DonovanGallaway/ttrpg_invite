@@ -21,7 +21,7 @@
 
     function checkPassword() {
         if (validPasswords[password.toLowerCase()]) {
-            userName = validPasswords[password];
+            userName = validPasswords[password.toLowerCase()];
             accessGranted = true;
             animateInvite = true;
         } else if (password === '') {
