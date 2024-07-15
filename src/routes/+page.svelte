@@ -8,6 +8,7 @@
         'lupine': 'Korey',
         'queerest': 'Avery',
         'powder': 'Stacy',
+        'test': 'Player',
     }
 
     let accessGranted = false;
@@ -68,7 +69,7 @@
         margin-left: auto;
         margin-right: auto;
         max-width: 400px;
-        padding-left: 50px;
+        padding-left: .15em;
     }
 </style>
 
@@ -79,7 +80,7 @@
         <div>
         <p in:fade={{duration:2000, delay:3000}}>You are hereby cordially invited to attend the Hollowhaven School for Magicians.</p>
         <p in:fade={{duration: 2000, delay: 8000}}>We understand that you have many options for your choice of higher education, but circumstances have led us to believe that you may have a more...interesting life available to you than you may have otherwise dreamed.</p>
-        <p in:fade={{duration: 2000, delay: 8000}}>Entrance examinations will be held in-person at my home. No prior education is required, though an understanding of Kids on Brooms will aid you if you so choose to read up on it. Please contact me for further details or copies of materials.</p>
+        <p in:fade={{duration: 2000, delay: 8000}}>Entrance examinations will be held in-person at my home on August 12th at 7pm. No prior education is required, though an understanding of Kids on Brooms will aid you if you so choose to read up on it. Please contact me for further details or copies of materials.</p>
         <p in:fade={{duration: 2000, delay: 8000}}>If you suspect a friend may also have an aptitude for the magical, please feel free to bring them.</p>
         <p in:fade={{duration: 2000, delay: 8000}}>Nothing is otherwise required. If you choose, you may bring a shareable snack to accommodate the mood.</p>
 
