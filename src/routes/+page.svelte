@@ -11,6 +11,7 @@
         'test': 'Player',
         'faechild': 'Rae',
         'piracy': 'Rue',
+        'babygirl': 'Mandi',
     }
 
     let accessGranted = false;
