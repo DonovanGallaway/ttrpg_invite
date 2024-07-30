@@ -12,6 +12,8 @@
         'faechild': 'Rae',
         'piracy': 'Rue',
         'babygirl': 'Mandi',
+	'insect': 'Rae',
+	'fighting': 'Tylus',
     }
 
     let accessGranted = false;
